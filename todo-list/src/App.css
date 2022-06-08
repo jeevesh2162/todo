@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+#main{
+  background-color: aliceblue;
+  width: 50%;
+  height: 20rem;
+}
+
+#inputs-section{
+  display: flex;
+}
+
+.items-container{
+  display: flex;
+  align-items: center;
+}
+
+.remove-buttons{
+  width: 2rem;
+  height: 2rem;
+}
